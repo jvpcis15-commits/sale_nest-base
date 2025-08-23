@@ -1,3 +1,5 @@
+Estrutura das pastas
+
 sale_nest/
 │── sale_nest.py
 │── requirements.txt
