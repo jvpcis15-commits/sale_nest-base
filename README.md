@@ -1,5 +1,7 @@
 Estrutura das pastas
 
+Primeira verão do app
+
 sale_nest/
 │── sale_nest.py
 │── requirements.txt
